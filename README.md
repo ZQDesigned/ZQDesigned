@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <img width="50%" align="right" src="https://github-readme-stats-zqdesigned.vercel.app/api?username=ZQDesigned&count_private=true&show_icons=true&include_all_commits=true" />
 <img width="50%" align="right" src="https://github-readme-stats-zqdesigned.vercel.app/api/top-langs/?username=ZQDesigned" />
 
