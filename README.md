@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <img width="50%" align="right" src="https://github-readme-stats-zqdesigned.vercel.app/api?username=ZQDesigned" />
-<img width="50%" align="right" src="https://github-readme-stats-zqdesigned.vercel.app/api/top-langs/?username=ZQDesigned&layout=compact" />
+<img width="50%" align="right" src="https://github-readme-stats-zqdesigned.vercel.app/api/top-langs/?username=ZQDesigned" />
 
 ### Hi there, This is ZQDesigned 👋
 
