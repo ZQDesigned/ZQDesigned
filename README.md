@@ -5,7 +5,7 @@
 
 **你好，这里是 ZQDesigned 👋**
 
-An Android developer, and server Spring Boot development.
+A multiplatform developer, and Spring Boot server development.
 
 ### Specialties
 
