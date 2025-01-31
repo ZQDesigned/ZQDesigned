@@ -1,5 +1,6 @@
+
+<img width="23%" align="right" src="https://ghrs-zqdesigned.vercel.app/api/top-langs/?username=ZQDesigned" />
 <img width="30%" align="right" src="https://ghrs-zqdesigned.vercel.app/api?username=ZQDesigned&count_private=true&show_icons=true&include_all_commits=true" />
-<img width="20%" align="right" src="https://ghrs-zqdesigned.vercel.app/api/top-langs/?username=ZQDesigned" />
 
 ### Hi there, This is ZQDesigned 👋
 
