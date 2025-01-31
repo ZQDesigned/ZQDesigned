@@ -13,10 +13,10 @@ A multiplatform developer, and Spring Boot server development.
 [![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)](#)
 [![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)](#)
 [![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)](#)
-[![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)](#)
+[![JS/TS](https://img.shields.io/badge/-JS/TS-ffcc00?style=flat&logo=javascript&logoColor=white)](#)
 [![Flutter](https://img.shields.io/badge/-Flutter-6ecdf8?style=flat&logo=flutter&logoColor=white)](#)
 
 ### WIP
 
-[![JS/TS](https://img.shields.io/badge/-JS/TS-ffcc00?style=flat&logo=javascript&logoColor=white)](#)
 [![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)](#)
+[![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)](#)
