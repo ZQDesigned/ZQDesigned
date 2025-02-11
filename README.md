@@ -64,7 +64,7 @@
 
 ### [📱 Expo 抖音开放 SDK](https://github.com/ZQDesigned/expo-douyin-opensdk)
 用于 React Native (Expo) 的抖音开放 SDK，支持抖音登录和分享功能，让开发者可以轻松集成抖音平台的交互。  
-🔹 **技术栈**：React Native, Expo, TypeScript, Douyin OpenSDK  
+🔹 **技术栈**：React Native, Expo, TypeScript  
 🔹 **功能点**：抖音授权登录、视频分享到抖音、一键跳转抖音 App  
 
 ### [📲 SuperMIUI-OS](https://github.com/ZQDesigned/SuperMIUI-OS)
