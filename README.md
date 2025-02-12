@@ -21,21 +21,21 @@
 ---
 ## 🚀 技术栈
 💻 **后端开发**：  
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) 
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)  
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![gRPC](https://img.shields.io/badge/gRPC-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
 📱 **移动端 & 全栈**：  
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) 
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)  
-![Flutter](https://img.shields.io/badge/Flutter-6ecdf8?style=for-the-badge&logo=flutter&logoColor=white)  
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-6ecdf8?style=for-the-badge&logo=flutter&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
 🎮 **游戏开发**：  
-![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)  
-![xLua](https://img.shields.io/badge/xLua-FF9E0F?style=for-the-badge&logo=lua&logoColor=white)  
+![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
+![xLua](https://img.shields.io/badge/xLua-FF9E0F?style=for-the-badge&logo=lua&logoColor=white)
 
 🌐 **工具 & 其他**：  
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -82,3 +82,14 @@
 - 🎮 **Unity + xLua 进行游戏开发**  
 
 > **🌟 记得给我的项目点个 Star 哦！谢谢支持！🎉**
+
+---
+
+## 📢 联系我
+
+如果你对我的项目感兴趣，欢迎联系我交流！📬
+
+- **GitHub**：[github.com/ZQDesigned](https://github.com/ZQDesigned)
+- **邮箱**:：[zqdesigned@mail.lnyynet.com](mailto:zqdesigned@mail.lnyynet.com)
+- **博客**：[blog.zqdesigned.city](http://blog.zqdesigned.city)
+- **QQ群**：[795320988](https://qm.qq.com/cgi-bin/qm/qr?k=sEhHGI0lkX3niIYtnYo2UfsSrHIQOph0&jump_from=webapi&authKey=/CU8D5K45quVqu1EoEc7IeTCaaIYc96YD8vSBS8aO65VEzxmxnxGgrxX/nc6dZWW) （欢迎加入~~交流~~氵群）
