@@ -52,10 +52,27 @@
 🔹 **技术栈**：Spring Boot, MySQL, Redis, gRPC, React.js  
 🔹 **核心功能**：文件上传管理、权限控制、自动归档
 
-### [📝 个人博客前端](https://github.com/ZQDesigned/blog-fe)
+---
+
+### 📝 个人博客系统
+一个完整的博客系统，包括前端展示、后端服务及管理后台。支持 **Markdown 解析、文章管理、分类与标签** 等功能。
+
+#### 🔹 [前端展示](https://github.com/ZQDesigned/blog-fe)
 基于 React.js 的个人博客前端，支持 Markdown 解析、代码高亮、文章分类和标签搜索。  
 🔹 **技术栈**：React.js, TypeScript, CSS-in-JS  
 🔹 **特色功能**：极简风格、响应式设计  
+
+#### 🔹 [后端服务](https://github.com/ZQDesigned/blog-be-spring)
+使用 **Spring Boot** 作为后端服务，支持 RESTful API，提供文章管理等功能。  
+🔹 **技术栈**：Spring Boot, MySQL, Redis  
+🔹 **核心功能**：文章管理、用户认证（JWT）、缓存优化  
+
+#### 🔹 [管理后台](https://github.com/ZQDesigned/blog-fe-admin)
+基于 **React.js** 开发的博客管理后台，支持文章发布、评论管理等功能。  
+🔹 **技术栈**：React.js, TypeScript, Ant Design, Vite  
+🔹 **特色功能**：可视化管理、富文本编辑器  
+
+---
 
 ### [🛠️ Chrome 页面修改器扩展](https://github.com/ZQDesigned/chrome-page-modifier-extension)
 一个 Chrome 浏览器插件，允许用户自定义修改网页内容。  
