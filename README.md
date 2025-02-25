@@ -47,13 +47,6 @@
 
 ## 📌 精选项目
 
-### [📂 文件收集系统](https://github.com/Liaoning-YiYun-Network/file-collection-system)
-一个用于高效文件收集与管理的系统，支持多种文件格式的上传和分类整理。适用于企业、教育机构等场景。  
-🔹 **技术栈**：Spring Boot, MySQL, Redis, gRPC, React.js  
-🔹 **核心功能**：文件上传管理、权限控制、自动归档
-
----
-
 ### 📝 个人博客系统
 一个完整的博客系统，包括前端展示、后端服务及管理后台。支持 **Markdown 解析、文章管理、分类与标签** 等功能。
 
@@ -73,6 +66,11 @@
 🔹 **特色功能**：可视化管理、富文本编辑器  
 
 ---
+
+### [📂 文件收集系统](https://github.com/Liaoning-YiYun-Network/file-collection-system)
+一个用于高效文件收集与管理的系统，支持多种文件格式的上传和分类整理。适用于企业、教育机构等场景。  
+🔹 **技术栈**：Spring Boot, MySQL, Redis, gRPC, React.js  
+🔹 **核心功能**：文件上传管理、权限控制、自动归档    
 
 ### [🛠️ Chrome 页面修改器扩展](https://github.com/ZQDesigned/chrome-page-modifier-extension)
 一个 Chrome 浏览器插件，允许用户自定义修改网页内容。  
