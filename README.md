@@ -16,7 +16,7 @@
 
 🔍 我喜欢深挖技术的细节，并追求 **优雅、高效、可维护的代码**，在开发过程中，我更倾向于 **使用最佳实践**，同时也愿意 **分享经验**，与社区共同进步。  
 
-📢 个人博客（目前正运行在 Tencent Cloud）：[blog.zqdesigned.city](http://blog.zqdesigned.city)  
+📢 个人主页（目前正运行在 Tencent Cloud）：[ www.zqdesigned.city](http://www.zqdesigned.city)  
 
 ---
 ## 🚀 技术栈
