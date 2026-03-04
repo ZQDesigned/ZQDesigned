@@ -105,6 +105,6 @@
 如果你对我的项目感兴趣，欢迎联系我交流！📬
 
 - **GitHub**：[github.com/ZQDesigned](https://github.com/ZQDesigned)
-- **邮箱**:：[zqdesigned@mail.lnyynet.com](mailto:zqdesigned@mail.lnyynet.com)
+- **邮箱**：[zqdesigned@mail.lnyynet.com](mailto:zqdesigned@mail.lnyynet.com)
 - **博客**：[blog.zqdesigned.city](http://blog.zqdesigned.city)
 - **QQ群**：[795320988](https://qm.qq.com/cgi-bin/qm/qr?k=sEhHGI0lkX3niIYtnYo2UfsSrHIQOph0&jump_from=webapi&authKey=/CU8D5K45quVqu1EoEc7IeTCaaIYc96YD8vSBS8aO65VEzxmxnxGgrxX/nc6dZWW) （欢迎加入~~交流~~氵群）
