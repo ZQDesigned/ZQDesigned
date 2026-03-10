@@ -89,8 +89,7 @@
 ### 📱 FlexiUI React Mobile
 一个面向 **移动端 Web 应用** 的 React UI 组件库，专注于轻量化与高可定制性，适用于移动端 Web 项目或 Hybrid App 场景。
 
-🔹 **项目地址**：  
-[FlexiUI-React-Mobile](https://github.com/ZQDesigned/FlexiUI-React-Mobile)  
+🔹 **项目地址**：[FlexiUI-React-Mobile](https://github.com/ZQDesigned/FlexiUI-React-Mobile)  
 
 🔹 **技术栈**：React / TypeScript / CSS-in-JS  
 
@@ -121,8 +120,7 @@
 ### 🔐 Minecraft Auth Plugin
 一个用于 **Minecraft 服务器玩家授权管理** 的插件，通过令牌机制实现玩家登录鉴权与访问控制。
 
-🔹 **项目地址**：  
-[MC-1.21.8-AuthPlugin](https://github.com/ZQDesigned/MC-1.21.8-AuthPlugin)  
+🔹 **项目地址**：[MC-1.21.8-AuthPlugin](https://github.com/ZQDesigned/MC-1.21.8-AuthPlugin)  
 
 🔹 **技术栈**：Java / Minecraft Server Plugin  
 
