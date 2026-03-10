@@ -1,43 +1,63 @@
-
-<img width="23%" align="right" src="https://ghrs-zqdesigned.vercel.app/api/top-langs/?username=ZQDesigned&size_weight=1&count_weight=0" />
-<img width="30%" align="right" src="https://ghrs-zqdesigned.vercel.app/api?username=ZQDesigned&count_private=true&show_icons=true&include_all_commits=true" />
+<div align="right">
+  <img width="40%" align="right" src="https://ghrs-zqdesigned.vercel.app/api?username=ZQDesigned&count_private=true&show_icons=true&include_all_commits=true" />
+</div>
 
 ### Hi there, This is ZQDesigned 👋
 
 **你好，这里是 ZQDesigned 👋**
 
-🔹 **全栈开发者 | 多平台开发 | Spring Boot 后端开发**  
-🔹 **热爱技术，关注前沿，享受 Coding 的乐趣！**  
-
-## 📌 关于我
-👨‍💻 我是一名 **多平台开发者**，主要从事 **Spring Boot 后端开发**，同时对 **移动端、全栈开发** 和 **游戏开发** 充满热情。  
-
-🌱 我目前正在探索 **TypeScript 生态**，并研究 **微服务架构、gRPC 通信** 及 **云原生技术**。同时，我也在学习 **Unity + xLua** 进行游戏开发，希望构建高自由度的游戏体验。  
-
-🔍 我喜欢深挖技术的细节，并追求 **优雅、高效、可维护的代码**，在开发过程中，我更倾向于 **使用最佳实践**，同时也愿意 **分享经验**，与社区共同进步。  
-
-📢 个人主页（目前正运行在 Tencent Cloud）：[www.zqdesigned.city](https://www.zqdesigned.city)  
+🔹 **Full-Stack Developer | Frontend Architecture | Spring Boot Backend**  
+🔹 **热爱技术探索，关注工程实践与系统架构设计**  
 
 ---
+
+## 📌 关于我
+
+👨‍💻 我是一名 **全栈开发者**，目前主要专注于 **现代 Web 应用架构与前端工程化**，同时具备 **Spring Boot 后端开发经验**。  
+
+在实际项目中，我更关注 **系统架构设计、性能优化与代码可维护性**，并致力于通过良好的工程实践构建稳定、可扩展的系统。
+
+🧠 在开发实践中，我倾向于深入理解技术原理，并关注：
+
+- **前端架构设计与工程化实践**
+- **高性能 Web 应用优化**
+- **微服务架构与 gRPC 通信**
+- **云原生技术（Docker / Kubernetes）**
+
+🎮 除 Web 开发外，我也对 **游戏开发** 保持长期兴趣，目前正在探索 **Unity + xLua** 的技术方案，希望构建具有高自由度和良好扩展性的游戏系统。
+
+🌐 个人主页（Currently hosted on Tencent Cloud）：[www.zqdesigned.city](https://www.zqdesigned.city)
+
+---
+
 ## 🚀 技术栈
+
+📱 **前端 & 全栈**：  
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+
 💻 **后端开发**：  
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![gRPC](https://img.shields.io/badge/gRPC-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-D82C20?style=for-the-badge&logo=redis&logoColor=white)
 
-📱 **移动端 & 全栈**：  
+📱 **移动端开发**：  
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-6ecdf8?style=for-the-badge&logo=flutter&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![React Native](https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 🎮 **游戏开发**：  
 ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
 ![xLua](https://img.shields.io/badge/xLua-FF9E0F?style=for-the-badge&logo=lua&logoColor=white)
 
-🌐 **工具 & 其他**：  
+🌐 **工具 & 基础设施**：  
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
@@ -48,61 +68,91 @@
 ## 📌 精选项目
 
 ### 📝 个人博客系统
-一个完整的博客系统，包括前端展示、后端服务及管理后台。支持 **Markdown 解析、文章管理、分类与标签** 等功能。
+一个完整的 **内容管理系统（CMS）**，包含前端展示、后端服务与管理后台三部分，支持 Markdown 文章管理、分类标签、用户认证等功能。
 
-#### 🔹 [前端展示](https://github.com/ZQDesigned/blog-fe)
-基于 React.js 的个人博客前端，支持 Markdown 解析、代码高亮、文章分类和标签搜索。  
-🔹 **技术栈**：React.js, TypeScript, CSS-in-JS  
-🔹 **特色功能**：极简风格、响应式设计  
+🔹 **项目地址**：  
+- 前端展示：[blog-fe](https://github.com/ZQDesigned/blog-fe)  
+- 后端服务：[blog-be-spring](https://github.com/ZQDesigned/blog-be-spring)  
+- 管理后台：[blog-fe-admin](https://github.com/ZQDesigned/blog-fe-admin)  
 
-#### 🔹 [后端服务](https://github.com/ZQDesigned/blog-be-spring)
-使用 **Spring Boot** 作为后端服务，支持 RESTful API，提供文章管理等功能。  
-🔹 **技术栈**：Spring Boot, MySQL, Redis  
-🔹 **核心功能**：文章管理、用户认证（JWT）、缓存优化  
+🔹 **技术栈**：React / TypeScript / Spring Boot / MySQL / Redis  
 
-#### 🔹 [管理后台](https://github.com/ZQDesigned/blog-fe-admin)
-基于 **React.js** 开发的博客管理后台，支持文章发布、评论管理等功能。  
-🔹 **技术栈**：React.js, TypeScript, Ant Design, Vite  
-🔹 **特色功能**：可视化管理、富文本编辑器  
+🔹 **核心功能**：
+- Markdown 内容管理与文章发布
+- 分类与标签系统
+- JWT 用户认证
+- Redis 缓存优化
+- 前后端分离架构设计
 
 ---
 
-### [📂 文件收集系统](https://github.com/Liaoning-YiYun-Network/file-collection-system)
-一个用于高效文件收集与管理的系统，支持多种文件格式的上传和分类整理。适用于企业、教育机构等场景。  
-🔹 **技术栈**：Spring Boot, MySQL, Redis, gRPC, React.js  
-🔹 **核心功能**：文件上传管理、权限控制、自动归档    
+### 📱 FlexiUI React Mobile
+一个面向 **移动端 Web 应用** 的 React UI 组件库，专注于轻量化与高可定制性，适用于移动端 Web 项目或 Hybrid App 场景。
 
-### [🛠️ Chrome 页面修改器扩展](https://github.com/ZQDesigned/chrome-page-modifier-extension)
-一个 Chrome 浏览器插件，允许用户自定义修改网页内容。  
-🔹 **技术栈**：JavaScript, Manifest V3, Chrome Extensions API  
-🔹 **核心功能**：页面内容修改
+🔹 **项目地址**：  
+[FlexiUI-React-Mobile](https://github.com/ZQDesigned/FlexiUI-React-Mobile)  
 
-### [📱 Expo 抖音开放 SDK](https://github.com/ZQDesigned/expo-douyin-opensdk)
-用于 React Native (Expo) 的抖音开放 SDK，支持抖音登录和分享功能，让开发者可以轻松集成抖音平台的交互。  
-🔹 **技术栈**：React Native, Expo, TypeScript  
-🔹 **功能点**：抖音授权登录、视频分享到抖音、一键跳转抖音 App  
+🔹 **技术栈**：React / TypeScript / CSS-in-JS  
 
-### [📲 SuperMIUI-OS](https://github.com/ZQDesigned/SuperMIUI-OS)
-一个基于 MIUI 定制的开源增强工具，提供更丰富的系统设置和功能优化。  
-🔹 **技术栈**：Kotlin, Android  
-🔹 **主要功能**：系统增强、自定义界面、优化性能、调整系统参数  
+🔹 **项目特点**：
+- 面向移动端的组件设计
+- 高可定制 UI 结构
+- 轻量级组件架构
+- 适用于 WebView / Hybrid 应用开发
+
+---
+
+### 🧩 StopMsgMod（Minecraft Mod）
+一个用于 **Minecraft 服务器管理** 的模组项目，同时提供 **Fabric 与 Forge 双加载器版本**，用于扩展 Minecraft 服务器关服消息通知能力。
+
+🔹 **项目地址**：  
+- Fabric：[StopMsgMod](https://github.com/ZQDesigned/StopMsgMod)  
+- Forge：[StopMsgMod-forge](https://github.com/ZQDesigned/StopMsgMod-forge)  
+
+🔹 **技术栈**：Java / Minecraft Modding / Fabric API / Forge  
+
+🔹 **项目特点**：
+- 双加载器兼容（Fabric + Forge）
+- 可扩展的消息处理逻辑
+- 面向服务器管理场景设计
+
+---
+
+### 🔐 Minecraft Auth Plugin
+一个用于 **Minecraft 服务器玩家授权管理** 的插件，通过令牌机制实现玩家登录鉴权与访问控制。
+
+🔹 **项目地址**：  
+[MC-1.21.8-AuthPlugin](https://github.com/ZQDesigned/MC-1.21.8-AuthPlugin)  
+
+🔹 **技术栈**：Java / Minecraft Server Plugin  
+
+🔹 **核心功能**：
+- 玩家令牌登录机制
+- 未授权玩家行为限制
+- 自动绑定与身份验证
+- 适用于私有服务器权限管理
 
 ---
 
 ## 🌱 目前正在学习
-📌 **深入研究**：
-- 🔍 **微服务架构**，包括 Spring Cloud & gRPC  
-- 🚀 **Kotlin 在后端的最佳实践**  
-- 🌐 **云原生架构，Docker & Kubernetes**  
-- 🎮 **Unity + xLua 进行游戏开发**  
 
-> **🌟 记得给我的项目点个 Star 哦！谢谢支持！🎉**
+📌 **技术深化方向**：
+
+- ⚡ **Web 应用架构设计**：深入研究 Next.js SSR / React 现代渲染模式以及大型前端应用的工程化实践  
+- 🔗 **微服务与 RPC 通信**：探索基于 **gRPC** 的服务间通信模式与系统解耦方案  
+- ☁️ **云原生技术栈**：学习 **Docker / Kubernetes** 在实际项目中的部署与运维实践  
+- 🧠 **高性能 Web 应用优化**：关注渲染性能、缓存策略与系统可扩展性设计  
+- 🎮 **游戏开发探索**：使用 **Unity + xLua** 构建可扩展的游戏逻辑系统  
+
+我始终相信：**优秀的软件不仅仅是功能实现，更是工程设计与长期可维护性的平衡。**
+
+> **🌟 如果你觉得我的项目对你有帮助，欢迎点一个 Star！**
 
 ---
 
 ## 📢 联系我
 
-如果你对我的项目感兴趣，欢迎联系我交流！📬
+如果你对我的项目或技术方向感兴趣，欢迎交流与讨论 👇
 
 - **GitHub**：[github.com/ZQDesigned](https://github.com/ZQDesigned)
 - **邮箱**：[zqdesigned@mail.lnyynet.com](mailto:zqdesigned@mail.lnyynet.com)
