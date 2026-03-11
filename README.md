@@ -9,6 +9,8 @@
 🔹 **Full-Stack Developer | Frontend Architecture | Spring Boot Backend**  
 🔹 **热爱技术探索，关注工程实践与系统架构设计**  
 
+💡 **Focused on Frontend Architecture, Full-Stack Development and Scalable Web Systems**
+
 ---
 
 ## 📌 关于我
