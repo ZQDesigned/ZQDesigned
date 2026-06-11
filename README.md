@@ -1,7 +1,3 @@
-<div align="right">
-  <img width="40%" align="right" src="https://ghrs-zqdesigned.vercel.app/api?username=ZQDesigned&count_private=true&show_icons=true&include_all_commits=true" />
-</div>
-
 ### Hi there, This is ZQDesigned 👋
 
 **你好，这里是 ZQDesigned 👋**
