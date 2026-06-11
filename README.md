@@ -1,7 +1,7 @@
 <a href="https://github.com/ZQDesigned">
   <img
     align="right"
-    src="https://github.com/ZQDesigned.png?size=200"
+    src="https://github.com/ZQDesigned.png"
     width="200"
     height="200"
     alt="ZQDesigned"
