@@ -1,3 +1,14 @@
+<a href="https://github.com/ZQDesigned">
+  <img
+    align="right"
+    src="https://github.com/ZQDesigned.png?size=200"
+    width="200"
+    height="200"
+    alt="ZQDesigned"
+    style="border-radius: 50%; object-fit: cover;"
+  />
+</a>
+
 ### Hi there, This is ZQDesigned 👋
 
 **你好，这里是 ZQDesigned 👋**
