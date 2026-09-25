@@ -161,6 +161,11 @@
 
 如果你对我的项目或技术方向感兴趣，欢迎交流与讨论 👇
 
+**可承接前端小问题排查与修复**：React、Vue、JavaScript、HTML、CSS。请提供复现步骤、预期结果和相关代码，确认范围后再开始。
+
+- 国内：[单个问题诊断（闲鱼，¥9.90）](https://www.goofish.com/item?id=1085135867077&categoryId=50023914) / [单个小问题修复（闲鱼，¥49.90）](https://www.goofish.com/item?id=1088132188220&categoryId=50023914)
+- 海外：[Frontend bug fix（Contra，$75）](https://contra.com/s/NkAFZOlg-fix-one-react-vue-or-java-script-frontend-bug)
+
 - **GitHub**：[github.com/ZQDesigned](https://github.com/ZQDesigned)
 - **邮箱**：[zqdesigned@mail.lnyynet.com](mailto:zqdesigned@mail.lnyynet.com)
 - **博客**：[blog.zqdesigned.city](http://blog.zqdesigned.city)
